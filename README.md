@@ -1,2 +1,2 @@
-# A-Star-Planning
-A* planning on grid and visualization using SFML library in C++.
+# Path-Planning-Algorithms
+Implementing search based A* path planning algorithm and visualize using SFML library
